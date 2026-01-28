@@ -50,8 +50,7 @@ python app.py
 * **Frontend:** Layout HTML estruturado com dash.html e componentes dcc.Graph.
 * **Deploy Local:** Inicialização do servidor em modo de debug (app.run(debug=True)).
 
----
 *Desenvolvido para fins de estudo e análise de dados.*
----
+
 ### Próximo passo
 Como você está trabalhando com Dash e visualização de dados, gostaria que eu gerasse também um arquivo `requirements.txt` compatível para facilitar a instalação das bibliotecas?
